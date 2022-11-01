@@ -2,7 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6 sets/PythonTasks" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/6/PythonTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Functions/PythonTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lamda &amp; Files/PythonTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lamda/PythonTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PythonTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Random &amp; Time/PythonTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shabrashin 2/PythonTasks" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pythonProject1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pythonProject1/PythonTasks" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pythonProject3" vcs="Git" />
